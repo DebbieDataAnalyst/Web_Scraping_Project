@@ -1,1 +1,1 @@
-"Companies" is the web scraping project output
+"Companies.csv" is the web scraping project output
